@@ -1,0 +1,36 @@
+
+.contact{
+    padding-bottom: 30px;
+   background-image: url(../img/1.png);
+   background-size: cover;
+}
+/* .contact::after{
+    contact:"";
+    background-image: url("../img/11.svg"); 
+    background-size: cover; 
+    width: 100%;
+    position: absolute;
+    height: inherit;
+    opacity: 0.12;
+} */
+.input-text{
+    height: 5vh;
+    width: 52vw;
+    /* padding: 0px 6px; */
+    /* margin: 7px 0; */
+}
+.input-max-text{
+    height: 50vh;
+    width: 52vw;
+    /* padding: 0px 6px; */
+    /* margin: 7px 0; */
+    
+}
+.contact h2{
+    padding: 20px 0px;
+    margin-left: 20px;
+}
+.but-submit{
+    height: 7vh;
+    width: 6vw;
+}
